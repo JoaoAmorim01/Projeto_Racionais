@@ -6,6 +6,10 @@ body {
     background-color: #203541;
 }
 
+#corpo {
+    margin-top: 9%;
+}
+
 .cabecalho{
     display:inline;
     max-width: 1440px;
@@ -46,6 +50,10 @@ nav {
     border-style: inset;
     width: 99%;
     height: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #203541;
 }
 
 nav ul {
